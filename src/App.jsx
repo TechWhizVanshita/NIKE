@@ -1,10 +1,9 @@
 const App = () => (
    <main className="relative">
-    <nav>
+      Nav
       <section className="xl:padding-1 wide:padding-r padding-b">
        Hero
       </section>
-    </nav>
       <section className="padding">
         PopularProducts
       </section>
