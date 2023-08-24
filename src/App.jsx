@@ -28,7 +28,7 @@ const App = () => (
         Subscribe
       </section>
 
-      <section className="padding">
+      <section className="bg-black padding-x padding-t pb-8">
         Footer
       </section>
 
