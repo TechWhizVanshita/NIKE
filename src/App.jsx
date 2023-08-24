@@ -1,4 +1,13 @@
-import { CustomerReviews,Footer,Hero,PopularProducts,Services,SpecialOffers,Subscribe,SuperQuality } from "./sections";
+import {
+  CustomerReviews,
+  Footer,
+  Hero,
+  PopularProducts,
+  Services,
+  SpecialOffer,
+  Subscribe,
+  SuperQuality,
+} from "./sections";
 
 
 
@@ -21,7 +30,7 @@ const App = () => (
       </section>
 
       <section className="padding">
-        <SpecialOffers />
+        <SpecialOffer />
       </section>
 
       <section className="padding bg-pale-blue">
