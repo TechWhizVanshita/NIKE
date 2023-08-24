@@ -1,3 +1,5 @@
+import Button from "../components/Button"
+
 const Hero = () => {
   return (
     <section id="home" className="w-full flex xl:flex-row flex-col justify-center min-h-screen gap-10 max-container">
@@ -10,6 +12,7 @@ const Hero = () => {
            Shoes
         </h1>
         <p>Discover stylish Nike arrivals quality <br />comfort, and innovation for your active life.</p>
+        <Button />
      </div>
     </section>
   )
