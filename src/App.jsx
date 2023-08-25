@@ -47,7 +47,7 @@ const App = () => (
         <Footer />
       </section>
 
-      
+      <section></section>
    </main>
 );
 
