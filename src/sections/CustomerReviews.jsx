@@ -20,6 +20,7 @@ const CustomerReviews = () => {
 
 
       </div>
+      <div></div>
     </section>
   );
 };
